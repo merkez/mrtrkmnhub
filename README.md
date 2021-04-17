@@ -1,4 +1,4 @@
-## Blogs posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
